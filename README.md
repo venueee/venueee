@@ -1,4 +1,4 @@
-## MK_Pascal#0505
+## ! venue#0187
 [![Discord Presence](https://lanyard.cnrad.dev/api/1073669164939624498?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/juRvjsDY9x) 
 
 
@@ -6,7 +6,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> About Me
 
 🏷️ × I'm Venue  
-📍  × Germany  
+📍   × Germany  
 🔨 × I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  
 ⚙️ × And use **[Ezcord](https://github.com/tibue99/ezcord)** to code bots
 

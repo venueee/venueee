@@ -1,5 +1,5 @@
 ## ! venue#0187
-[![Discord Presence](https://lanyard.cnrad.dev/api/1073669164939624498?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/illustration) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1073669164939624498?idleMessage=Python%20Applikations%20Entwickler)](https://discord.gg/illustration) 
 
 
 ***

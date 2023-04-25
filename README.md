@@ -36,4 +36,4 @@
 Knowledge is power.
 ```
 
-<a href="https://discord.gg/8BYAQfWVVn" target="_blank"><img src="https://github.com/InvalidVenue/InvalidVenue/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/8BYAQfWVVn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

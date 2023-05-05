@@ -1,13 +1,5 @@
 ## shine.#9999
 
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=invalidvenue&label=Profile%20views&color=6330F6&style=flat" alt="invalidvenue"/>
-</p>
-<p align="center"><img src="https://gpvc.arturio.dev/InvalidVenue" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/InvalidVenue" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/InvalidVenue" alt="Profile Forks"></a>
-<p align="center"><a href="https://discord.gg/8BYAQfWVVn" target="_blank"><img src="https://discordapp.com/api/guilds/970766326387847178/widget.png?style=shield" alt="shield.png"></a></p></p>
-
 🏷️ × I'm shine.  
 🐍 × Python Developer
 🔨 × I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  

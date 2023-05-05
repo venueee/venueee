@@ -20,5 +20,3 @@ Knowledge is power.
 
 
 <a href="https://discord.gg/8BYAQfWVVn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1073669164939624498?idleMessage=Python%20Developer)](https://discord.gg/8BYAQfWVVn) 

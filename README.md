@@ -19,4 +19,4 @@ Knowledge is power.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=6330F6&labelColor=6330F6)
 
 
-<a href="https://discord.gg/8BYAQfWVVn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://google.com" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

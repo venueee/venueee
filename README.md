@@ -1,13 +1,8 @@
-## shine.#9999
+# shine.#9999
 
 🏷️ × I'm shine.  
 🐍 × Python Developer
-🔨 × I work on Discord Bots using **[Pycord](https://github.com/Pycord-Development/pycord)**  
-⚙️ × And i use **[Ezcord](https://github.com/tibue99/ezcord)** to code bots
-
-```python
-print(f'Follow {shine} on Github')
-```
+📍 × Belgium
 
 ```json
 Knowledge is power.

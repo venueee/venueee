@@ -1,8 +1,8 @@
 # shine.#9999
 
-🏷️ × I'm shine.  
-🐍 × Python Developer
-📍 × Belgium
+* 🏷️ × I'm shine.  
+* 🐍 × Python Developer
+* 📍 × Belgium
 
 ```json
 Knowledge is power.

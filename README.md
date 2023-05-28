@@ -5,9 +5,9 @@
 😊 × I'm shine.\
 📍 × Belgium
 
-<p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=invalidvenue&label=Profile%20views&color=0e75b6&style=flat" alt="invalidvenue"/>
-</p>
+```json
+Knowledge is power.
+```
 
 ### 📝 Languages and Tools
 ![Python](https://img.shields.io/badge/python-6330F6?style=for-the-badge&logo=python&logoColor=white)

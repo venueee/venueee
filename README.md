@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=5009&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%97%BF+shine%239999;%F0%9F%A4%96+Discord+Bot+Developer;%F0%9F%90%8D+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=5009&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%97%BF+asuna.wav;%F0%9F%A4%96+Discord+Bot+Developer;%F0%9F%90%8D+Python+Developer)](https://git.io/typing-svg)
 
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> About Me

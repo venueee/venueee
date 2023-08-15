@@ -2,11 +2,16 @@
 
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> About Me
-✨ asuna\
-🍃 Developer
+😊 × I'm shine.\
+📍 × Belgium
 
-### 📝 Languages and Tools
-<code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/python.svg"></code>
+```json
+Knowledge is power.
+```
+
+### 📝 Languages
+![Python](https://img.shields.io/badge/python-6330F6?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Services • Tools
 ![SQLite](https://img.shields.io/badge/sqlite-6330F6?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=6330F6&labelColor=6330F6)
 

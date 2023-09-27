@@ -2,8 +2,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> About Me
-😊 × I'm shine.\
-📍 × Belgium
+😊 × I'm asuna.
 
 ```json
 Knowledge is power.

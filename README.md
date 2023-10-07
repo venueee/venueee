@@ -8,7 +8,7 @@
 ---
 
 # 💻 Tech Skills
-![My Skills](https://skillicons.dev/icons?i=py,ts,vscode,powershell,sqlite)
+![My Skills](https://skillicons.dev/icons?i=py,vscode,powershell,sqlite)
 
 ---
 

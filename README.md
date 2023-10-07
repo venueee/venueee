@@ -1,6 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> About Me
 😊 × I'm asuna, a backend Developer and learning frontend, and im German!
+🎹 Learning Producing at [SoundCloud](https://soundcloud.com/asunadev)
 
 # 🌐 Network
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/47.lcuis) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/users/1073669164939624498)

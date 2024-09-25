@@ -1,6 +1,6 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> About Me
-😊 I'm asuna, a backend Developer from Germany!
+😊 I'm venue, a backend Developer from Germany!
 
 # 🌐 Network
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/47.lcuis) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/users/1073669164939624498)
